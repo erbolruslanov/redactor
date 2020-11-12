@@ -1,0 +1,35 @@
+
+
+body{
+    font-family: 'Goldman', cursive;
+    background: url("../images/bg.jpg")no-repeat center/cover;
+}
+.line-through{
+    text-decoration: line-through;
+}
+
+.text-underline{
+    text-decoration: underline;
+}
+.text-italic{
+    font-style: italic;
+}
+.text-bold{
+    font-weight: bold;
+}
+
+.active{
+    background-color: red !important;
+}
+.edit-title{
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+.btn{
+    width: 80px;
+}
+.form-group{
+    color: white;
+}
